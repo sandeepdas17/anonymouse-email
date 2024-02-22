@@ -31,8 +31,5 @@ Inspired by projects and services facilitating anonymous email transmission.
 
 Note: This script is for educational purposes only. Users are responsible for adhering to applicable laws and terms of service when using this tool.
 
-<h3>Language:</h3> <img src="![download](https://github.com/sandeepdas17/anonymouse-email/assets/135645468/3a5a5e84-e923-4998-a335-a7ba2be7206d)
-" alt="Python Logo" width="40" height="40"/>
 
-
-
+[![Python](https://img.shields.io/badge/Python-3.11-ffdd3b.svg)](https://www.python.org/)
