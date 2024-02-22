@@ -4,7 +4,8 @@ Anonymous Email Script by Sandeep Das
 Description:
 
 This Python script, created by web developer Sandeep Das, enables users to send anonymous emails via the Anonymouse.org service. The script provides a simple command-line interface for inputting the recipient's email, subject, and message.
-![Uploading giphy (1).gif…]()
+
+
 
 Usage:
 
